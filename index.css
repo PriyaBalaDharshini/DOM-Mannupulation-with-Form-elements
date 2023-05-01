@@ -1,0 +1,17 @@
+body{
+    background-color:rgba(144, 100, 100, 0.37);
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+.form{
+    padding-top: 20px;
+    margin-bottom: 5px;  
+}
+h1{
+    text-align: center;
+}
+td{
+    text-align: auto;
+}
+
